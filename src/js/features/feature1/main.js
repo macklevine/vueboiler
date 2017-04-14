@@ -1,0 +1,1 @@
+import './components/feature1.component.js';
